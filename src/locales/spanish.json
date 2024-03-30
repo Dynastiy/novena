@@ -1,0 +1,54 @@
+{
+  "selected_language": "{language}",
+  "english": "Inglés",
+  "french": "Francés",
+  "spanish": "Español",
+
+  "nav": {
+    "contact-us": "Contacta con nosotros",
+    "copyright": "Derechos de autor",
+    "rights": "Reservados todos los derechos",
+    "btn-text": "get a quote"
+  },
+
+  "home": "hogar",
+  "about": "acerca de",
+  "hero-text": "Estamos dedicados y decididos a empoderar a las personas que viven con discapacidades.",
+
+  "footer-text": "Hepzibah Care es una organización sin fines de lucro comprometida con la implementación de un enfoque centrado en la persona, a través de la defensa de los participantes y sus cuidadores, capacitándolos para alcanzar su máximo potencial. Nos dedicamos a apoyar a los usuarios de servicios mientras los ayudamos a participar con éxito y confianza a medida que se integran dentro de la comunidad.",
+
+  "commitment": {
+    "main-header": "Nuestro compromiso contigo",
+    "header1": "Seguridad",
+    "header2": "Igualdad",
+    "header3": "Logro",
+    "header4": "Colaboración",
+    "body1": "Nuestro servicio está comprometido a garantizar la seguridad del usuario del servicio.",
+    "body2": "Fomentar y defender la igualdad de acceso y participación en la comunidad general.",
+    "body3": "Desarrollar la capacidad de los usuarios de servicios para lograr sus objetivos.",
+    "body4": "Trabajar en colaboración y asociación con los usuarios de servicios y las partes interesadas para lograr el mejor resultado posible para las personas que viven con una discapacidad."
+  },
+
+  "mission": {
+    "main-header": "Nuestra misión",
+    "body": "Brindar apoyo único y amigable a las personas que viven con discapacidad y sus familias, e inspirar a los usuarios de nuestros servicios a deleitarse en sí mismos al encontrar un sentido de propósito e identidad en la sociedad."
+  },
+
+  "vision": {
+    "header": "Nuestra visión",
+    "body": "Hepzibah Care es una organización sin fines de lucro comprometida con la implementación de un enfoque centrado en la persona, a través de la defensa de los participantes y sus cuidadores, capacitándolos para alcanzar su máximo potencial. Nos dedicamos a apoyar a los usuarios de servicios mientras los ayudamos a participar con éxito y confianza a medida que se integran dentro de la comunidad."
+  },
+
+  "values": {
+    "header": "Nuestros valores fundamentales",
+    "body": "Hepzibah Care es una organización sin fines de lucro dedicada y decidida, totalmente comprometida a empoderar a las personas que viven con discapacidades y a sus familias. Creemos firmemente que con nuestro apoyo, las personas pueden superar todos los obstáculos y alcanzar sus objetivos. Nuestra inquebrantable dedicación a brindar apoyo y recursos esenciales en educación, vivienda (entornos de alojamiento SIL y SDA), empleo, acceso a la comunidad, apoyo en el hogar y servicios de cuidado de relevo fortalecen la capacidad de nuestros usuarios de servicios para generar impactos significativos en su vida diaria. Hepzibah Care se basa en el amor, la unidad, la responsabilidad, el respeto y la compasión."
+  },
+
+  "contact": {
+    "header": "¡Hablemos de todo!",
+    "full-name": "nombre completo",
+    "email": "correo electrónico",
+    "message": "mensaje",
+    "send": "enviar mensaje"
+  }
+}

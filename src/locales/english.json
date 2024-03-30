@@ -1,0 +1,59 @@
+{
+  "selected_language": "{language}",
+  "english": "English",
+  "french": "French",
+  "spanish": "Spanish",
+
+  "nav": {
+    "contact-us": "Contact Us",
+    "copyright": "Copyright",
+    "rights": "All rights reserved",
+    "btn-text": "request a quote"
+  },
+  
+  "home": "home",
+  "about": "about",
+  "hero-text": "We are devoted & determined to empower individuals living with disabilities.",
+
+  "footer-text": "Hepzibah Care is a not-for-profit organisation committed to implementing a person-centred approach, by way of, advocacy to participants and their caregivers empowering them to achieve their full potential. We are devoted to supporting service users while assisting them to participate successfully and confidently as they integrate within the community.",
+
+  "commitment": {
+    "main-header": "Our commitment to you",
+    "header1": "Safety",
+    "header2": "Equality",
+    "header3": "Achievement",
+    "header4": "Collaboration",
+    "body1": "Our service is committed to ensuring service user's safety",
+    "body2": "Encourage and advocate for equal access and participation in the mainstream community",
+    "body3": "Building service user's capacity to achieve their goals",
+    "body4": "Working collaboratively and in partnership with service users and stakeholders to achieve the best possible outcome for persons living with a disability"
+  },
+
+  "mission": {
+    "main-header": "Our Mission",
+    "body": "To provide unique and friendly support to persons living with disability and their families, and inspire our service users to delight in themselves by finding a sense of purpose and identity in society"
+  },
+
+  "vision": {
+    "header": "Our Vision",
+    "body": "Hepzibah Care is a not-for-profit organisation committed to implementing a person-centred approach, by way of, advocacy to participants and their caregivers empowering them to achieve their full potential. We are devoted to supporting service users while assisting them to participate successfully and confidently as they integrate within the community."
+  },
+
+  "values": {
+    "header": "Our Core Values",
+    "body": "Hepzibah Care is a devoted and determined non-for-profit organization fully committed to empowering individuals living with disabilities and their families. We firmly believe that with our support, individuals can overcome all obstacles and achieve their goals. Our unwavering dedication to providing essential support and resources in Education, Housing (SIL & SDA Accommodation settings), Employment, Community Access, In-Home Support and Respite Care services build our service users’ capacity to make significant impacts in their daily lives. Hepzibah Care is built on the foundation of Love, unity, accountability, respect, and compassion."
+  },
+
+  "contact": {
+    "header": "Lets talk about everything!",
+    "full-name": "full name",
+    "email": "email",
+    "message": "message",
+    "send": "send message"
+  },
+
+  "about-us": {
+    "hero-text": "About Us",
+    "body": ""
+  }
+}
