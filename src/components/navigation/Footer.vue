@@ -13,14 +13,15 @@ const getYear = new Date().getFullYear()
           class="h-[40px] md:h-[47.53px] w-auto"
           alt=""
         /> -->
-        <img loading="lazy" src="@/assets/img/brandLogoLight.png" class="w-44" alt="">
+        <img loading="lazy" src="@/assets/img/brandLogoLight.png" class="w-44" alt="" />
       </div>
       <div class="flex justify-between lg:flex-row flex-col">
         <div class="flex flex-col lg:flex-row gap-[58px] text-left justify-start w-full">
           <div class="lg:w-[40%]">
             <span class="text-[14px] font-normal lg:leading-[21.602px]">
               <!-- {{ $t("footer-text") }} -->
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem voluptas eaque, ut mollitia, amet distinctio suscipit voluptatum recusandae quae, dolorem ullam. Illo dolorem perspiciatis ipsam deleniti ad inventore dolore illum.
+              Foreign Admission Processing | Relocation [Canada, UK, USA], Educational Tourism |
+              Workshop & Training | Field Schools | International Exchange | Immigration
             </span>
           </div>
           <div>
@@ -33,11 +34,24 @@ const getYear = new Date().getFullYear()
                 <router-link to=""> info@croxxtalent.com </router-link>
               </li> -->
 
-              <li class="text-[14px] font-normal lg:leading-[21.602px]">
+              <!-- <li class="text-[14px] font-normal lg:leading-[21.602px]">
                 <span>Lorem? Aliquid dignissimos, maiores <br> nulla porro laborum? </span>
+              </li> -->
+
+              <li class="text-[14px] font-normal lg:leading-[21.602px]">
+                <a href="tel:0493302904">Tel(Canada): + 1(403) 919-1429</a>
               </li>
               <li class="text-[14px] font-normal lg:leading-[21.602px]">
-                <a href="tel:0493302904">Tel: 123456789</a>
+                <span
+                  >Tel(Nigeria): <a href="tel:234 (811) 485-8376"> + 234 (811) 485-8376</a>,<a
+                    href="tel:+234 (810) 473-7646"
+                  >
+                    +234 (810) 473-7646</a
+                  ></span
+                >
+              </li>
+              <li class="text-[14px] font-normal lg:leading-[21.602px]">
+                <a href="mail-to:info@novenaconsult.ca">Email: info@novenaconsult.ca</a>
               </li>
             </ul>
           </div>
@@ -119,7 +133,10 @@ const getYear = new Date().getFullYear()
               </li>
             </ul>
           </div> -->
-      <p class="my-2 font-normal text-[14px] text-[#FFFFFF7A]">{{ $t("nav.copyright") }} {{ getYear }} &copy; Novena Educational Consult. {{ $t("nav.rights") }}.</p>
+      <p class="my-2 font-normal text-[14px] text-[#FFFFFF7A]">
+        {{ $t('nav.copyright') }} {{ getYear }} &copy; Novena Educational Consult.
+        {{ $t('nav.rights') }}.
+      </p>
     </div>
   </footer>
 </template>

@@ -1,4 +1,6 @@
 /* eslint-disable no-undef */
+/** @type {import('tailwindcss').Config} */
+// const colors = require('tailwindcss/colors')
 module.exports = {
   content: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
   prefix: "",
@@ -88,7 +90,8 @@ module.exports = {
             200: '#98A2B3',
             300: '#D0D5DD'
           }
-        }
+        },
+        // ...colors,
       },
       utilities: {
         '.tick': {

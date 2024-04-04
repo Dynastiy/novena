@@ -1,48 +1,21 @@
 <template>
   <div class="container">
-    <div class="flex flex-col">
-      <div class="w-full flex lg:flex-row md:flex-row flex-col">
-        <div class="bg-neutral-1100 p-8 min-h-[400px] lg:w-6/12 md:w-6/12 w-full flex justify-center gap-4 flex-col">
-          <h1 class="text-4xl font-extrabold tracking-tight text-white">
-            {{ $t('mission.main-header') }}
-          </h1>
-          <p class="text-[15px]  w-full font-medium text-gray-300">
-            <!-- {{ $t('mission.body') }} -->
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quo laboriosam maxime, expedita officiis beatae in quidem illo doloremque, velit nesciunt ipsam. Ipsam, obcaecati necessitatibus praesentium in facilis doloremque error id.
-          </p>
-        </div>
-        <div class="min-h-[400px] lg:w-6/12 md:w-6/12 w-full flex items-center justify-center">
-          <img class="image" src="@/assets/img/mission.png" />
-        </div>
-      </div>
-      <div class="w-full flex lg:flex-row md:flex-row flex-col-reverse">
-        <div class="min-h-[400px] lg:w-6/12 md:w-6/12 w-full flex items-center justify-center">
-          <img class="image" src="@/assets/img/vision.png" />
-        </div>
-        <div class="bg-amber-600 p-8 min-h-[400px] lg:w-6/12 md:w-6/12 w-full flex justify-center gap-4 flex-col">
-          <h1 class="text-4xl font-extrabold tracking-tight text-white">
-            {{ $t('vision.header') }}
-          </h1>
-          <p class="text-[15px]  w-full font-medium text-gray-300">
-            <!-- {{ $t('vision.body') }} -->
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dolor totam excepturi recusandae dolores animi illum est perferendis! Aspernatur, accusantium odio dolorum esse nulla repellendus consectetur distinctio facere magni ex quasi!
-          </p>
-        </div>
-      </div>
-      <div class="w-full flex lg:flex-row md:flex-row flex-col ">
-        <div class="bg-secondary p-8 min-h-[400px] lg:w-6/12 md:w-6/12 w-full flex justify-center gap-4 flex-col">
-          <h1 class="text-4xl font-extrabold tracking-tight text-white">
-            {{ $t('values.header') }}
-          </h1>
-          <p class="text-[15px]  w-full font-medium text-gray-300">
-            <!-- {{ $t('values.body') }} -->
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos recusandae laboriosam rerum ratione, omnis doloremque, doloribus nemo quia eligendi quo impedit! Corrupti sed dicta omnis nobis culpa laboriosam ipsum incidunt?
-          </p>
-        </div>
-        <div class="min-h-[400px] lg:w-6/12 md:w-6/12 w-full flex items-center justify-center">
-          <img class="image" src="@/assets/img/values.png" />
-        </div>
-      </div>
+    <h4 class="font-bold text-2xl mb-4">
+      Welcome to NEC: <br /> Your Holistic Educational Partner
+    </h4>
+    <div class="bg-neutral-200 p-8 rounded-lg">
+      <p class="">
+        At NEC, we are committed to being your comprehensive educational solution. Whether you’re pursuing admission to high school, undergraduate, or graduate programs, seeking assistance with relocation, exploring short training courses, embarking on educational tourism, participating in international exchanges, or engaging in field schools, we are your trusted destination.
+<pre class="my-3"></pre>
+Our dedication goes beyond simple admission facilitation. We collaborate closely with our immigration partners to ensure your visa processing adheres to the highest standards, increasing your chances of success.
+<pre class="my-3"></pre>
+Established in 2012, our services not only encompass Canadian educational opportunities but also extend to clients aspiring for education in countries such as the United States of America, UK, Australia, and beyond. Our relentless pursuit of excellence ensures no detail is overlooked until your educational aspirations are realized.
+<pre class="my-3"></pre>
+Our team comprises seasoned educational professionals and experienced immigration consultants, providing unparalleled educational and relocation assistance. With extensive connections in universities and colleges, we are poised to streamline your path to Canadian education. Our foreign education program offers services like admission processing, course guidance, visa documentation support through our immigration experts, airport pickup, and more.
+<pre class="my-3"></pre>
+Guiding our efforts is our President, Professor Faith-Michael Uzoka, a distinguished professor of Computing and a devoted educationist and entrepreneur. Our team members are equally dedicated and experienced, all working toward helping you achieve your goals.
+Discover the NEC difference – where your educational and relocation journey takes center stage. Your aspirations are our unwavering focus.
+      </p>
     </div>
   </div>
 </template>

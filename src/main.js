@@ -28,6 +28,9 @@ app.component('Icon', Icon)
 app.component('Sidebar', Sidebar)
 import 'primevue/resources/themes/aura-light-green/theme.css'
 
+import Rating from 'primevue/rating';
+app.component('Rating', Rating)
+
 import PrimeVue from 'primevue/config';
 app.use(PrimeVue);
 

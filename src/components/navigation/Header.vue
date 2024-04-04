@@ -22,7 +22,7 @@
               </router-link>
             </li>
           </ul>
-          <el-dropdown trigger="click">
+          <!-- <el-dropdown trigger="click">
             <span class="el-dropdown-link flex items-center gap-2 text-dark">
               <span class="flex items-center">
                 <country-flag :country="selected_flag" size="medium" />
@@ -50,7 +50,7 @@
                 </el-dropdown-item>
               </el-dropdown-menu>
             </template>
-          </el-dropdown>
+          </el-dropdown> -->
           <!-- <div>
             <button
             class="uppercase text-sm tracking-wide bg-primary text-gray-900 p-3 rounded-lg w-full focus:outline-none focus:shadow-outline"
