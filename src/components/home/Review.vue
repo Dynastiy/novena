@@ -100,7 +100,7 @@
                       ? 'bg-secondary'
                       : 'bg-neutral-600 text-neutral-800'
                 ]"
-                class="uppercase flex items-center gap-2 justify-center text-sm font-bold tracking-wide bg-secondary text-gray-100 p-3 rounded-lg w-full focus:outline-none focus:shadow-outline"
+                class="uppercase flex items-center gap-2 justify-center text-sm font-bold tracking-wide text-gray-100 p-3 rounded-lg w-full focus:outline-none focus:shadow-outline"
               >
                 <!-- {{ $t('contact.send') }} -->
                 <Icon icon="eos-icons:loading" class="text-2xl" v-if="isLoading" />

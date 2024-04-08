@@ -7,7 +7,7 @@
         class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl"
       >
         <!-- {{ $t('hero-text') }} -->
-        Novena Educational Consultant
+        Novena Educational and Immigration Consult
       </h1>
       <p class="mb-8 text-lg font-normal text-gray-300 lg:text-lg sm:px-16 lg:px-48">
         <!-- {{ $t('mission.body') }} -->

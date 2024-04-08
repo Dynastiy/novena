@@ -39,9 +39,62 @@ const getYear = new Date().getFullYear()
               </li> -->
 
               <li class="text-[14px] font-normal lg:leading-[21.602px]">
+                <span class="underline mb-2 block text-gray-400 font-semibold">PortHarcourt</span>
+                <span>
+                  <span class="flex items-center gap-1">
+                    <Icon icon="f7:phone-circle-fill" />
+                    <a href="tel:08032616528">08032616528</a>
+                  </span>
+                  <span class="flex items-center gap-1">
+                    <Icon icon="iconamoon:location-bold" />
+                    <span> #1 East/West Road, Rumukoro, PortHarcourt, Rivers State. </span>
+                  </span>
+                </span>
+              </li>
+
+              <li class="text-[14px] font-normal lg:leading-[21.602px]">
+                <span class="underline mb-2 block text-gray-400 font-semibold">Uyo</span>
+                <span>
+                  <span class="flex items-center gap-1">
+                    <Icon icon="f7:phone-circle-fill" />
+                    <span
+                      >Tel(Nigeria): <a href="tel:07041251084"> 07041251084</a>,<a
+                        href="tel:08101250218"
+                      >
+                        08101250218</a
+                      ></span
+                    >
+                  </span>
+                  <span class="flex items-center gap-1">
+                    <Icon icon="iconamoon:location-bold" />
+                    <span> #12 Gibbs Street (last floor), Uyo, Akwa Ibom State. </span>
+                  </span>
+                </span>
+              </li>
+
+              <li class="text-[14px] font-normal lg:leading-[21.602px]">
+                <span class="underline mb-2 block text-gray-400 font-semibold">Owerri</span>
+                <span>
+                  <span class="flex items-center gap-1">
+                    <Icon icon="f7:phone-circle-fill" />
+                    <a href="tel:07046334015">07046334015</a>
+                  </span>
+                  <span class="flex items-center gap-1">
+                    <Icon icon="iconamoon:location-bold" />
+                    <span> Meksky Plaza #170 Ikenegbu Layout Owerri, Imo State. </span>
+                  </span>
+                </span>
+              </li>
+
+              <hr class="my-4 w-2/12 border-gray-600">
+
+              <li class="text-[14px] font-normal lg:leading-[21.602px]">
                 <a href="tel:0493302904">Tel(Canada): + 1(403) 919-1429</a>
               </li>
-              <li class="text-[14px] font-normal lg:leading-[21.602px]">
+
+              <hr class="my-4 w-2/12 border-gray-600">
+
+              <!-- <li class="text-[14px] font-normal lg:leading-[21.602px]">
                 <span
                   >Tel(Nigeria): <a href="tel:234 (811) 485-8376"> + 234 (811) 485-8376</a>,<a
                     href="tel:+234 (810) 473-7646"
@@ -49,7 +102,7 @@ const getYear = new Date().getFullYear()
                     +234 (810) 473-7646</a
                   ></span
                 >
-              </li>
+              </li> -->
               <li class="text-[14px] font-normal lg:leading-[21.602px]">
                 <a href="mail-to:info@novenaconsult.ca">Email: info@novenaconsult.ca</a>
               </li>
@@ -106,9 +159,13 @@ const getYear = new Date().getFullYear()
     <div class="flex flex-row container items-center justify-between gap-[29px]">
       <hr class="bg-[#FFFFFF40] h-[1px] lg:w-full w-[50%]" />
       <div class="flex flex-row items-center gap-[14px]">
-        <!-- <TwitterIcon /><TwitterIcon /><TwitterIcon /><TwitterIcon /> -->
-        <!-- <a href=""></a>
-        <a href=""></a> -->
+        <a href="#" target="_blank">
+          <Icon icon="fa-brands:facebook" />
+        </a>
+
+        <a href="#" target="_blank">
+          <Icon icon="bi:instagram" />
+        </a>
       </div>
       <hr class="bg-[#FFFFFF40] h-[1px] lg:w-full w-[50%]" />
     </div>
