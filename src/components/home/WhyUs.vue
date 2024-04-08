@@ -13,8 +13,6 @@
                 {{ item }}
             </h6>
           </div>
-  
-         
         </div>
       </div>
     </div>

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="container">
+    <section class="container py-12">
       
       <div
         class="flex flex-col gap-4"
@@ -15,8 +15,8 @@
 At NEC, we are committed to being your comprehensive educational solution. Whether you’re pursuing admission to high school, undergraduate, or graduate programs, seeking assistance with relocation, exploring short training courses, embarking on educational tourism, participating in international exchanges, or engaging in field schools, we are your trusted destination.
         </p>
          <div class="flex flex-col gap-4 sm:flex-row  sm:gap-0">
-        <a
-          href="/about"
+        <router-link
+          to="/about"
           class="inline-flex justify-center items-center py-3 px-5 w-fit text-base font-medium text-center text-white rounded-lg bg-secondary hover:bg-primary focus:ring-4 focus:ring-secondary dark:focus:ring-secondary"
         >
           Learn More
@@ -35,7 +35,7 @@ At NEC, we are committed to being your comprehensive educational solution. Wheth
               d="M1 5h12m0 0L9 1m4 4L9 9"
             />
           </svg>
-        </a>
+        </router-link>
       </div>
       </div>
     </section>
